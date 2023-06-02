@@ -266,7 +266,10 @@ blockquote {
 }
 .card .hidden p {
   line-height: 1.4em;
-  margin: 10px;
+  margin-top: 10px;
+  margin-left: 1px;
+  margin-right: 1px;
+  margin-bottom: 10px;
 }
 .card .hidden pre {
   font-size: 1em;
