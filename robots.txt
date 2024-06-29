@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://LuZaiJiaoXiaL.github.io/sitemap.xml
+Sitemap: https://maosuli.github.io/sitemap.xml
